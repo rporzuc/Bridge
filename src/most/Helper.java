@@ -9,7 +9,7 @@ import sun.applet.Main;
 
 public class Helper {
 
-    private final String TEXT_FIELD_SOURCE = "C:\\Users\\Rafał\\Documents\\NetBeansProjects\\Most\\most.txt";
+    private final String TEXT_FIELD_SOURCE = "most.txt";
 
     //MARK: Array = [SEMAFOR, EAST, WEST]
     private final int[] array = {0,0,0};
